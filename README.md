@@ -1,6 +1,6 @@
 # Download
 
-You can download this repository to your computer by using `git clone https://github.com/NLB94/BotStartProject.git`.
+You can download this repository to your computer by using `git clone https://github.com/NLB94/DiscordBotProject.git`.
 
 # Get started 
 
