@@ -13,7 +13,7 @@ You can get the bot token in [Discord Developers Portal](https://discord.com/dev
 
 ## Commands & Events
 
-`7 commands` and `2 events` are already created using handlers in `util/loader.js`.
+Bot has already `7 commands` and `2 events`, created using handlers in `util/loader.js`.
 
 The commands have a good structure : the ``run`` function to execute the command and the ``help`` object to get informations about the command.
 The help object is stocked on `util/constants.js` file
