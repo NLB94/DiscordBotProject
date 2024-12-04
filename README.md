@@ -1,12 +1,12 @@
-## Warning
+# Warning ⚠️
 
 This project is no longer usable.
 
-# Download
+## Download
 
 You can download this repository to your computer by using `git clone https://github.com/stunox/DiscordBotProject.git`.
 
-# Get started 
+## Get started 
 
 You have to use `npm i` or `npm install` command to install require packages
 
