@@ -1,3 +1,7 @@
+## Warning
+
+This project is no longer usable.
+
 # Download
 
 You can download this repository to your computer by using `git clone https://github.com/stunox/DiscordBotProject.git`.
@@ -24,6 +28,3 @@ The bot has already :
 - an eval command
 - a ready event
 - and a message event with commands cooldowns, and some verifications
-
-# Contribute
-There are no contributions :p
